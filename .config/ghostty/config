@@ -1,0 +1,11 @@
+# ColorScheme
+# background = 1c1c1c
+# foreground = ffffff
+theme = "Kanagawa Dragon"
+
+# Keybindings
+keybind = ctrl+alt+5=new_split:right
+keybind = ctrl+alt+'=new_split:down
+
+# Empty values reset the configuration to the default value
+font-family = "MesloLGS NF"

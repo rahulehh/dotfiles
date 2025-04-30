@@ -1,0 +1,87 @@
+# Bashtop Kanagawa-dragon (https://github.com/rebelot/kanagawa.nvim) theme
+# By: philikarus
+
+# Main bg
+theme[main_bg]="#181616"
+
+# Main text color
+theme[main_fg]="#a6a69c"
+
+# Title color for boxes
+theme[title]="#9e9b93"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#c4746e"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#658594"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#b6927b"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#a6a69c"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#7aa89f"
+
+# Cpu box outline color
+theme[cpu_box]="#a6a69c"
+
+# Memory/disks box outline color
+theme[mem_box]="#a6a69c"
+
+# Net up/down box outline color
+theme[net_box]="#a6a69c"
+
+# Processes box outline color
+theme[proc_box]="#a6a69c"
+
+# Box divider line and small boxes line color
+theme[div_line]="#a6a69c"
+
+# Temperature graph colors
+theme[temp_start]="#87a987"
+theme[temp_mid]="#DCA561"
+theme[temp_end]="#e82424"
+
+# CPU graph colors
+theme[cpu_start]="#87a987"
+theme[cpu_mid]="#DCA561"
+theme[cpu_end]="#e82424"
+
+# Now change from here
+# Mem/Disk free meter
+theme[free_start]="#e82424"
+theme[free_mid]="#c34043"
+theme[free_end]="#ff5d62"
+
+# Mem/Disk cached meter
+theme[cached_start]="#c0a36e"
+theme[cached_mid]="#dca561"
+theme[cached_end]="#ff9e3b"
+
+# Mem/Disk available meter
+theme[available_start]="#938aa9"
+theme[available_mid]="#957fbb"
+theme[available_end]="#9cabca"
+
+# Mem/Disk used meter
+theme[used_start]="#658594"
+theme[used_mid]="#7e9cdb"
+theme[used_end]="#7fb4ca"
+
+# Download graph colors
+theme[download_start]="#7e9cdb"
+theme[download_mid]="#938aa9"
+theme[download_end]="#957fbb"
+
+# Upload graph colors
+theme[upload_start]="#dca561"
+theme[upload_mid]="#e6c384"
+theme[upload_end]="#e82424"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#87a987"
+theme[process_mid]="#dca561"
+theme[process_end]="#c34043"
